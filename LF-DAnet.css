@@ -66,6 +66,11 @@ A:active {
         background-color: rgb(245, 245, 245);
         position: relative;
       }
+#Scene3_father {
+        
+        background-color: rgb(245, 245, 245);
+        position: relative;
+      }
 
   /* Our normalize css */
   *{
